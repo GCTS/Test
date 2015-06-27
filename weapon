@@ -1,0 +1,9 @@
+#Weapon class
+
+class Weapon
+
+    w_name = "";
+    is_shooting_weapon = true;
+    bullets = 9;
+
+end
