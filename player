@@ -1,9 +1,0 @@
-#Player class
-
-class Player
-
-    life = 100;
-    weapons = {};
-    drugs = {};
-
-end
